@@ -1,0 +1,138 @@
+﻿{
+    "languageShort": "en",
+    "languageLong": "English",
+    "dictionaryEntries": [
+        {
+            "key": "Created_At",
+            "value": "4:04:22 AM"
+        },
+        {
+            "key": "calibration_instruction",
+            "value": "Device calibration: Pick up the device and hold it normally with constant force for {0} seconds."
+        },
+        {
+            "key": "calibration_instruction_maxforce",
+            "value": "Device calibration: Press the device as much as you can. Put it down when you're done."
+        },
+        {
+            "key": "Apple",
+            "value": "Apple"
+        },
+        {
+            "key": "Cocoa",
+            "value": "Cocoa"
+        },
+        {
+            "key": "Caramel",
+            "value": "Caramel"
+        },
+        {
+            "key": "Cherry",
+            "value": "Cherry"
+        },
+        {
+            "key": "Coffee",
+            "value": "Coffee"
+        },
+        {
+            "key": "LemonJuice",
+            "value": "Lemon Juice"
+        },
+        {
+            "key": "Milk",
+            "value": "Milk"
+        },
+        {
+            "key": "Orange",
+            "value": "Orange"
+        },
+        {
+            "key": "Raspberry",
+            "value": "Raspberry"
+        },
+        {
+            "key": "Sugar",
+            "value": "Sugar"
+        },
+        {
+            "key": "WhippedCream",
+            "value": "Whipped Cream"
+        },
+        {
+            "key": "SmallCup",
+            "value": "Small Cup"
+        },
+        {
+            "key": "MediumCup",
+            "value": "Medium Cup"
+        },
+        {
+            "key": "LargeCup",
+            "value": "Large Cup"
+        },
+        {
+            "key": "Tablespoon",
+            "value": "Tablespoons"
+        },
+        {
+            "key": "Cup",
+            "value": "Cup"
+        },
+        {
+            "key": "Cl",
+            "value": "cl"
+        },
+        {
+            "key": "Ml",
+            "value": "ml"
+        },
+        {
+            "key": "Serve",
+            "value": "Serve!"
+        },
+        {
+            "key": "Score",
+            "value": "Score"
+        },
+        {
+            "key": "TotalScore",
+            "value": "Total Score"
+        },
+        {
+            "key": "CaramelCoffee",
+            "value": "Caramel Coffee"
+        },
+        {
+            "key": "DemoRecipe",
+            "value": "Demo Recipe"
+        },
+        {
+            "key": "Small",
+            "value": "Small"
+        },
+        {
+            "key": "Medium",
+            "value": "Medium"
+        },
+        {
+            "key": "Big",
+            "value": "Big"
+        },
+        {
+            "key": "Penalties",
+            "value": "Penalties"
+        },
+        {
+            "key": "Start",
+            "value": "Start"
+        },
+        {
+            "key": "Quit",
+            "value": "Quit"
+        },
+        {
+            "key": "Languages",
+            "value": "Languages"
+        }
+    ]
+}

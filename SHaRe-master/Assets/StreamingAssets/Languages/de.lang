@@ -1,0 +1,139 @@
+﻿{
+    "languageShort": "de",
+    "languageLong": "Deutsch",
+    "dictionaryEntries": [
+        {
+            "key": "Created_At",
+            "value": "4:04:22 AM"
+        },
+        {
+            "key": "calibration_instruction",
+            "value": "Device Kalibrierung: Heb das Device auf und halte es mit einer normalen konstanten Kraft für {0} Sekunden."
+			
+        },
+        {
+            "key": "calibration_instruction_maxforce",
+            "value": "Device Kalibrierung: Drücke das Device so fest wie möglich. Stelle das Device hin wenn du fertig bist."
+        },
+        {
+            "key": "Apple",
+            "value": "Apfel"
+        },
+        {
+            "key": "Cocoa",
+            "value": "Kakao"
+        },
+        {
+            "key": "Caramel",
+            "value": "Karamel"
+        },
+        {
+            "key": "Cherry",
+            "value": "Kirsche"
+        },
+        {
+            "key": "Coffee",
+            "value": "Kaffee"
+        },
+        {
+            "key": "LemonJuice",
+            "value": "Zitronensaft"
+        },
+        {
+            "key": "Milk",
+            "value": "Milch"
+        },
+        {
+            "key": "Orange",
+            "value": "Orange"
+        },
+        {
+            "key": "Raspberry",
+            "value": "Himbeere"
+        },
+        {
+            "key": "Sugar",
+            "value": "Zucker"
+        },
+        {
+            "key": "WhippedCream",
+            "value": "Sahne"
+        },
+        {
+            "key": "SmallCup",
+            "value": "Kleiner Becher"
+        },
+        {
+            "key": "MediumCup",
+            "value": "Mittlerer Becher"
+        },
+        {
+            "key": "LargeCup",
+            "value": "Großer Becher"
+        },
+        {
+            "key": "Tablespoon",
+            "value": "Esslöffel"
+        },
+        {
+            "key": "Cup",
+            "value": "Becher"
+        },
+        {
+            "key": "Cl",
+            "value": "cl"
+        },
+        {
+            "key": "Ml",
+            "value": "ml"
+        },
+        {
+            "key": "Serve",
+            "value": "Servieren!"
+        },
+        {
+            "key": "Score",
+            "value": "Punktzahl"
+        },
+        {
+            "key": "TotalScore",
+            "value": "Gesamtpuktzahl"
+        },
+        {
+            "key": "CaramelCoffee",
+            "value": "Karamel Kaffee"
+        },
+        {
+            "key": "DemoRecipe",
+            "value": "Demo Rezept"
+        },
+        {
+            "key": "Small",
+            "value": "Kleiner"
+        },
+        {
+            "key": "Medium",
+            "value": "Mittlerer"
+        },
+        {
+            "key": "Big",
+            "value": "Großer"
+        },
+        {
+            "key": "Penalties",
+            "value": "Strafpunkte"
+        },
+        {
+            "key": "Start",
+            "value": "Start"
+        },
+        {
+            "key": "Quit",
+            "value": "Beenden"
+        },
+        {
+            "key": "Languages",
+            "value": "Sprachen"
+        }
+    ]
+}

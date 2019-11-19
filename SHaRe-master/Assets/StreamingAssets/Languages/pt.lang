@@ -1,0 +1,138 @@
+﻿{
+    "languageShort": "pt",
+    "languageLong": "Portuguese",
+    "dictionaryEntries": [
+        {
+            "key": "Created_At",
+            "value": "4:04:22 AM"
+        },
+        {
+            "key": "calibration_instruction",
+            "value": "Device calibration: Pick up the device and hold it normally with constant force for {0} seconds."
+        },
+        {
+            "key": "calibration_instruction_maxforce",
+            "value": "Device calibration: Press the device as much as you can. Put it down when you're done."
+        },
+        {
+            "key": "Apple",
+            "value": "Maçã"
+        },
+        {
+            "key": "Cocoa",
+            "value": "Cacau"
+        },
+        {
+            "key": "Caramel",
+            "value": "Caramelo"
+        },
+        {
+            "key": "Cherry",
+            "value": "Cereja"
+        },
+        {
+            "key": "Coffee",
+            "value": "Café"
+        },
+        {
+            "key": "LemonJuice",
+            "value": "Suco de limão"
+        },
+        {
+            "key": "Milk",
+            "value": "Leite"
+        },
+        {
+            "key": "Orange",
+            "value": "Laranja"
+        },
+        {
+            "key": "Raspberry",
+            "value": "Framboesa"
+        },
+        {
+            "key": "Sugar",
+            "value": "Açúcar"
+        },
+        {
+            "key": "WhippedCream",
+            "value": "Chantilly"
+        },
+        {
+            "key": "SmallCup",
+            "value": "Copo pequeno"
+        },
+        {
+            "key": "MediumCup",
+            "value": "Copa média"
+        },
+        {
+            "key": "LargeCup",
+            "value": "Grande Copa"
+        },
+        {
+            "key": "Tablespoon",
+            "value": "Colher"
+        },
+        {
+            "key": "Cup",
+            "value": "Copa"
+        },
+        {
+            "key": "Cl",
+            "value": "cl"
+        },
+        {
+            "key": "Ml",
+            "value": "ml"
+        },
+        {
+            "key": "Serve",
+            "value": "Servir!"
+        },
+        {
+            "key": "Score",
+            "value": "Ponto"
+        },
+        {
+            "key": "TotalScore",
+            "value": "Pontuação total"
+        },
+        {
+            "key": "CaramelCoffee",
+            "value": "Café Caramelo"
+        },
+        {
+            "key": "DemoRecipe",
+            "value": "Demo Receita"
+        },
+        {
+            "key": "Small",
+            "value": "Pequeno"
+        },
+        {
+            "key": "Medium",
+            "value": "Médio"
+        },
+        {
+            "key": "Big",
+            "value": "Grande"
+        },
+        {
+            "key": "Penalties",
+            "value": "Penalidades"
+        },
+        {
+            "key": "Start",
+            "value": "Começar"
+        },
+        {
+            "key": "Quit",
+            "value": "Saída"
+        },
+        {
+            "key": "Languages",
+            "value": "Línguas"
+        }
+    ]
+}
